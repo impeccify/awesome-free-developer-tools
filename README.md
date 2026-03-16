@@ -33,6 +33,7 @@ A curated list of free online tools for web developers, designers, and developer
 - [CSV to SQL Converter](https://www.impeccify.com/csv-to-sql-converter) - Convert CSV data to SQL INSERT statements
 - [String Case Converter](https://www.impeccify.com/string-case-converter) - Convert strings between camelCase, snake_case, PascalCase, and more
 - [Bandwidth Calculator](https://www.impeccify.com/bandwidth-calculator) - Calculate bandwidth and download times
+- [CSS to Tailwind Converter](https://www.impeccify.com/css-to-tailwind-converter) - Convert plain CSS to equivalent Tailwind CSS utility classes instantly.
 
 ## Website Tools
 
