@@ -56,6 +56,14 @@ A curated list of free online tools for web developers, designers, and developer
 - [Steps to Miles Calculator](https://www.impeccify.com/steps-to-miles-calculator) - Convert steps to miles and calories
 - [TDEE Calculator](https://www.impeccify.com/tdee-calculator) - Calculate total daily energy expenditure
 
+## Design & SEO Tools
+
+- [TinyTools – Favicon Generator](https://tinytools-smoky.vercel.app/) - Generate favicons in all sizes from an image, emoji, or text — no signup, runs in browser
+- [TinyTools – OG Image Generator](https://tinytools-smoky.vercel.app/) - Create Open Graph / Twitter card images for social previews, free and browser-based
+- [TinyTools – SEO Meta Tag Generator](https://tinytools-smoky.vercel.app/) - Build complete SEO and Open Graph meta tags for any page, copy-paste ready
+- [TinyTools – Color Palette Generator](https://tinytools-smoky.vercel.app/) - Generate harmonious color palettes for design and CSS, free with HEX/RGB/HSL output
+- [TinyTools – AI Background Remover](https://tinytools-smoky.vercel.app/) - Remove image backgrounds locally in your browser — no upload, no signup
+
 ## View All 100+ Free Tools
 
 - [Impeccify CSS Tools](https://www.impeccify.com/tools) - Free CSS unit converters (PX to REM, EM, VW, VH), CSS to Tailwind converter, and color tools.
